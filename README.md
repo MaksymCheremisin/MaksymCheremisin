@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @MaksymCheremisin
 
-- 👀 I’m interested in QA, playing guitar, reading books, and listening to music.
+- 👀 I’m interested in QA, playing guitar, travelling, reading books, and listening to music.
 - 🌱 I’m currently studying Software Testing (including Automation), Web Development and Python.
 - 💞️ I’m looking for a QA Engineer job where I can implement and enhance my technical skills.
 - 📫 How to reach me: https://www.linkedin.com/in/maksymcheremisin/ or maksym17cheremisin@gmail.com
