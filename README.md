@@ -4,7 +4,6 @@
 - 🌱 I’m currently studying Software Testing (including Automation), Web Development and Python.
 - 💞️ I’m looking for a QA Engineer job where I can implement and enhance my technical skills.
 - 📫 How to reach me: https://www.linkedin.com/in/maksymcheremisin/ or maksym17cheremisin@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: My guitar is older than my laptop, but both require regular "testing". I also love finding bugs, not only in code but also in recipes when I'm cooking dinner.
 
 <!---
